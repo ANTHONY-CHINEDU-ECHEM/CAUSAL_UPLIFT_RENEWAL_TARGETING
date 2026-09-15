@@ -1,0 +1,6 @@
+{
+  "n_train": 21000,
+  "n_test": 9000,
+  "mean_predicted_ite": 0.0975,
+  "ite_vs_true_effect_correlation": 0.5219
+}

@@ -1,0 +1,9 @@
+{
+  "qini_coefficient": 0.0798,
+  "meets_015_qini_target": false,
+  "targeted_segment_size_pct": 45.0,
+  "discount_spend_reduction_pct": 55.0,
+  "persuadable_segment_precision": 0.7746,
+  "meets_18pct_spend_reduction_target": true,
+  "meets_06_precision_target": true
+}
